@@ -1,0 +1,6 @@
+POST http://localhost:3459/api/v1/databases
+Content-Type: application/json
+
+{
+  "name": "paru"
+}
